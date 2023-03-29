@@ -1,5 +1,6 @@
 {
   "name": "graphql-request",
+  "main": "./build/esm/index.js",
   "version": "0.0.0-dripip",
   "type": "module",
   "exports": {
